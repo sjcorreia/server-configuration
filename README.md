@@ -4,5 +4,5 @@ This repository contains my version of the Linux Server Configuration Project as
 
 ## Resource Used
 
-[AWS Lightsail](https://aws.amazon.com/lightsail/)
-[Connect to Lightsail via terminal](https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac)
+- [AWS Lightsail](https://aws.amazon.com/lightsail/)
+- [Connect to Lightsail via terminal](https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac)
