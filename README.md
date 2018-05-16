@@ -99,6 +99,7 @@ Additional Python 3 packages/modules were installed to set up the environment ne
 - [Generating your own ssh key and importing it to AWS](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-key-pairs.html#how-to-generate-your-own-key-and-import-it-to-aws)
 - [Ubuntu ufw help page](https://help.ubuntu.com/community/UFW)
 - [Linux man page for sshd_config](https://linux.die.net/man/5/sshd_config)
+- [Don't Publicly Expose Git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
 - Stack Overflow: [How To Make a Git Directory inaccessible on the web](https://stackoverflow.com/questions/6142437/make-git-directory-web-inaccessible)
 - [How to use htaccess](http://www.htaccess-guide.com/how-to-use-htaccess/)
 - Stack Overflow: [WSGI Apache ImportError](https://stackoverflow.com/questions/43330231/500-internal-server-error-mod-wsgi-apache-importerror-no-module-named-django)
