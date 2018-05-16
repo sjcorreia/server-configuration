@@ -111,3 +111,6 @@ Additional Python 3 packages/modules were installed to set up the environment ne
 - [mod_wsgi Issue: Target WSGI script cannot be loaded as Python module](https://github.com/GrahamDumpleton/mod_wsgi/issues/156)
 - Udacity Forum [Deploying to the Server](https://discussions.udacity.com/t/troubles-with-project-5-deploying-to-server/370603)
 - Udacity Forum [Deploying Item Catalog Project](https://discussions.udacity.com/t/deploying-item-catalog-project/227189)
+- AWS Forum [How To Change SSH Port](https://forums.aws.amazon.com/thread.jspa?threadID=160352)
+- AWS Forum [Operation Timeout](https://forums.aws.amazon.com/thread.jspa?threadID=66813)
+- AWS Docs [Default Security Groups](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html#default-security-group)
