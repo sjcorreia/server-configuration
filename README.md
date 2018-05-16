@@ -109,3 +109,5 @@ Additional Python 3 packages/modules were installed to set up the environment ne
 - Stack Overflow: [PostgreSQL explicit type casts](https://stackoverflow.com/questions/42465402/sqlalchemy-postgres-you-might-need-to-add-explicit-type-casts-on-merge)
 - Stack Overflow: [PostgreSQL type mismatch](https://stackoverflow.com/questions/21349378/operator-does-not-exist-character-varying-bigint-in-gnuhealth-project)
 - [mod_wsgi Issue: Target WSGI script cannot be loaded as Python module](https://github.com/GrahamDumpleton/mod_wsgi/issues/156)
+- Udacity Forum [Deploying to the Server](https://discussions.udacity.com/t/troubles-with-project-5-deploying-to-server/370603)
+- Udacity Forum [Deploying Item Catalog Project](https://discussions.udacity.com/t/deploying-item-catalog-project/227189)
