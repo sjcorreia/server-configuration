@@ -114,3 +114,5 @@ Additional Python 3 packages/modules were installed to set up the environment ne
 - AWS Forum [How To Change SSH Port](https://forums.aws.amazon.com/thread.jspa?threadID=160352)
 - AWS Forum [Operation Timeout](https://forums.aws.amazon.com/thread.jspa?threadID=66813)
 - AWS Docs [Default Security Groups](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html#default-security-group)
+- [Update MOTD Ubuntu](https://serverfault.com/questions/262751/update-ubuntu-10-04/262773#262773)
+- [Automatic Updates on Ubuntu](https://help.ubuntu.com/lts/serverguide/automatic-updates.html)
