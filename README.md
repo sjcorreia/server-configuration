@@ -6,6 +6,8 @@ This project has tasked student with deploying a Flask web application to the we
 
 As recommended, I have created a new Linux instance with [AWS Lightsail](https://aws.amazon.com/lightsail/), runnung Ubuntu 16.04 LTS. This instance provides a clean foundation for this project. My instance has the following public IP Address: `18.221.163.29`. If you visit the link [http://18.221.163.29/](http://18.221.163.29/) in your favorite browser, you can see the Item Catalog Application created for Project 3 of the Full Stack Nanodegree progam **while this instance is active**.
 
+**The instance for this Linux machine has been removed to avoid unnecessary fees.**
+
 ## Project Guidelines
 
 The requirements for this project were comprised of a few steps needed to proper set up the server, install additional required tools, and configure the Apache web server to host a web application.
